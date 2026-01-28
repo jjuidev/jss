@@ -1,0 +1,16 @@
+{
+  "name": "jss",
+  "version": "0.1.0",
+  "description": "jjuidev Stack Skills - Claude Code agent skills for React, Next.js, React Native, NestJS",
+  "keywords": ["claude", "skills", "react", "nextjs", "react-native", "nestjs"],
+  "author": "jjuidev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jjuidev/jss"
+  },
+  "skills": {
+    "directory": "skills",
+    "installPath": "jss"
+  }
+}
